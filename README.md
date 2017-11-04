@@ -1,0 +1,2 @@
+# ikaServerPublicPlugin
+ikaServerで開発してたプラグインを置いておく
