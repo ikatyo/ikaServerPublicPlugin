@@ -1,0 +1,7 @@
+name: JoinStage
+main: JoinStage\Main
+description: JoinStage
+version: 1.0.0
+api: 2.0.0
+load: POSTWORLD
+author: ikatyo

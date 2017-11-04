@@ -1,0 +1,8 @@
+name: ServerNotify
+main: ikatyo\ServerNotify\Main
+version: 1.0.0
+description: LINENotifyを通じてサーバの稼働状況を送信
+api: 2.0.0
+load: POSTWORLD
+author: ikatyo
+

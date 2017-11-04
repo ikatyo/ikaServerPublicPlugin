@@ -1,0 +1,8 @@
+name: ServerDataDBPush
+main: ikatyo\ServerDataDBPush\Main
+version: 2.0.0
+description: DBへ稼働状況のデータをPush
+api: 2.0.0
+load: POSTWORLD
+author: ikatyo
+

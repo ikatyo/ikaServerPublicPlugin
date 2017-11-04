@@ -1,0 +1,12 @@
+name: EasyWastingReport
+main: ikatyo\EasyWastingReport\Main
+version: 2.0.5
+description: 報告の際に必要な情報を書き出します
+api: 3.0.0
+load: POSTWORLD
+author: ikatyo
+
+commands: 
+ reportdata:
+  description: 報告の際に必要な情報を書き出します
+  usage: /reportdata
